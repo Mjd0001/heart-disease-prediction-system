@@ -3,6 +3,7 @@ This project is a machine learning-based system that predicts the likelihood of 
 
 ## 📊 Dataset
 The dataset used is heart.csv, which contains various medical measurements of individuals, with the target variable (target) indicating whether the individual has heart disease (1) or not (0).
+[Heart Disease Dataset in Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## Features:
 - Age: Age of the individual
